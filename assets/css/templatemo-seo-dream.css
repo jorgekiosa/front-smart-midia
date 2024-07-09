@@ -1401,6 +1401,39 @@ Services Style
 --------------------------------------------- 
 */
 
+.equipa {
+  padding-top: 120px;
+}
+
+.equipa .section-heading {
+  text-align: center;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.equipa .container-fluid {
+  padding: 0px 80px;
+}
+
+.rounded-start-pill {
+  border-top-left-radius: 50rem !important;
+  border-bottom-left-radius: 50rem !important;
+}
+
+.rounded-end-pill {
+  border-top-right-radius: 50rem !important;
+  border-bottom-right-radius: 50rem !important;
+}
+/* 
+---------------------------------------------
+Services Style
+--------------------------------------------- 
+*/
+
+.bg-agency {
+  background-color: #4f03c8;
+}
+
 .our-services {
   padding-top: 120px;
 }
