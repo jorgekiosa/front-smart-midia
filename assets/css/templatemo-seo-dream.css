@@ -1040,7 +1040,7 @@ Features Style
   background: rgb(51, 204, 197);
   background: linear-gradient(
     105deg,
-    rgba(51, 204, 197, 1) 0%,
+    rgb(8, 164, 212) 0%,
     rgba(8, 141, 195, 1) 100%
   );
 }
